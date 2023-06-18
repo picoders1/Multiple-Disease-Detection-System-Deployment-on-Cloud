@@ -1,5 +1,5 @@
-# Disease-Detection-System-Deployment-on-Cloud
-# Disease detection system combines the power of artificial intelligence and machine learning provide a template to predict multiple disease detection of patients. 
+# Multiple Disease-Detection-System-Deployment-on-Cloud
+# Multiple Disease detection system combines the power of artificial intelligence and machine learning provide a template to predict multiple disease detection of patients. 
 
 # End to End ML Model Deployment Explanation with step and Figure.
 
