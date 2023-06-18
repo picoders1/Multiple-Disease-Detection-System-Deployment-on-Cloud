@@ -1,7 +1,7 @@
 # Disease-Detection-System-Deployment-on-Cloud
 # Disease detection system combines the power of artificial intelligence and machine learning provide a template to predict multiple disease detection of patients. 
 
-# 4.End to End ML Model Deployment Explanation with step and Figure.
+# End to End ML Model Deployment Explanation with step and Figure.
 
 Step1- Create a GitHub repository & then we need to push the file from local system to that repository. After that place a setup.sh file 
 
