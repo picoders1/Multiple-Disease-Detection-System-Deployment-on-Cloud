@@ -45,7 +45,7 @@ Step8- Finally, The application is live to access in internet from any device wi
 ![image](https://github.com/picoders1/Disease-Detection-System-Deployment-on-Cloud/assets/87698874/7e4aa635-cb07-40df-8d1b-947cdc549804)
 
 
-5. Outcome-
+5. Result & Outcome-
 
 ![image](https://github.com/picoders1/Disease-Detection-System-Deployment-on-Cloud/assets/87698874/bf87aa6c-7e55-4206-89f7-7fad834d4aac)
 
