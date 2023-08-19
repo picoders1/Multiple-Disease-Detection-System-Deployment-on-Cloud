@@ -55,6 +55,6 @@ Multiple Disease detection system combines the power of artificial intelligence 
 ![image](https://github.com/picoders1/Disease-Detection-System-Deployment-on-Cloud/assets/87698874/7ccb4a4e-0312-46a0-9be4-dc397fb38963)
 
 
-# ThankYou!!!
+# Thank You!!!
 
 
